@@ -1,0 +1,10 @@
+n26
+sparkasse
+volksbank
+commerzbank
+deutschebank
+bwbank
+vimpay
+fidor
+sparda
+postbank

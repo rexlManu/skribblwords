@@ -1,0 +1,10 @@
+dhl
+hermes
+lieferando
+lieferheld
+dominos
+ups
+dpd
+gls
+tnt
+deutschepost

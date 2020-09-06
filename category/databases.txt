@@ -1,0 +1,7 @@
+mysql
+mariadb
+mongodb
+postgresql
+redis
+dynamodb
+influxdb

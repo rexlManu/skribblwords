@@ -1,0 +1,9 @@
+windows
+linux
+osx
+macos
+android
+debian
+ubuntu
+ios
+centos

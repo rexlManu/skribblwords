@@ -1,0 +1,12 @@
+{
+    "name": "skribblwords",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "node index"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "UNLICENSED"
+}
